@@ -8,7 +8,7 @@ Aqui nós vamos além, o desafio de verdade começa após a implementação do c
 
 ## Demo
 
-https://alura-viagens-omega.vercel.app/
+https://alura-infocao.vercel.app/
 
 
 ## Run Locally
