@@ -47,6 +47,6 @@ Start the server
 
 ## Assignments
 
-- [ ] Implementar o context nos outros componentes da aplicação RacaSelecionada e Racas.
-- [ ] O projeto original utiliza Sass para estilizar a aplicação, aqui fica seu critério de manter o Sass ou utilizar css-in-js com styled-components.
-- [ ] Refatorar o projeto original que faz uso de classes pela abordagem funcional dos hooks.
+- [x] Implementar o context nos outros componentes da aplicação RacaSelecionada e Racas.
+- [x] O projeto original utiliza Sass para estilizar a aplicação, aqui fica seu critério de manter o Sass ou utilizar css-in-js com styled-components.
+- [x] Refatorar o projeto original que faz uso de classes pela abordagem funcional dos hooks.
