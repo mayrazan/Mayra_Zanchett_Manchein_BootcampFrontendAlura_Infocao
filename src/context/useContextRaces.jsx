@@ -9,9 +9,9 @@ const useRaces = () => {
   );
 
   const carregaListaRacas = (sobreRacas) => {
-    buscaTodasRacas().then((racas) => {
+    buscaTodasRacas().then((raca) => {
       const listaRacasMostradas = sobreRacas.filter((sobre) =>
-        racas.includes(sobre.name.toLowerCase())
+        raca.includes(sobre.name.toLowerCase())
       );
       setRacas(listaRacasMostradas);
     });
